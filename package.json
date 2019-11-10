@@ -1,7 +1,7 @@
 {
   "name": "@marcusmth/react-class-guts",
   "description": "automatically create react class guts",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "scripts": {
     "react-class-guts": "node createReactClass.js"
   },
