@@ -4,3 +4,4 @@
 "scripts": {
 	   "react-class-guts": "node tasks/cra.js"
 }
+}
