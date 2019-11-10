@@ -1,10 +1,9 @@
 {
 	"name": "@marcusmth/react-class-guts",
+	"description": "automatically create react class guts",
 	"version": "1.0.4",
 	"scripts": {
 		"react-class-guts": "node createReactClass.js"
 	},
-	"keywords": [
-		"guts"
-	]
+	"keywords": ["npm", "package.json", "node.js"]
 }
