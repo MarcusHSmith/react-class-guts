@@ -1,13 +1,13 @@
 {
-	"name": "@marcusmth/react-class-guts",
-	"description": "automatically create react class guts",
-	"version": "1.0.5",
-	"scripts": {
-		"react-class-guts": "node createReactClass.js"
-	},
-	"keywords": [
-		"npm",
-		"package.json",
-		"node.js"
-	]
+  "name": "@marcusmth/react-class-guts",
+  "description": "automatically create react class guts",
+  "version": "1.0.5",
+  "scripts": {
+    "react-class-guts": "node createReactClass.js"
+  },
+  "keywords": [
+    "npm",
+    "package.json",
+    "node.js"
+  ]
 }
