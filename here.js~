@@ -1,9 +1,0 @@
-console.log("ZZZTHIS IS A NEW ONE");
-
-const args = process.argv.slice();
-
-console.log(args);
-
-const className = args[0];
-
-console.log("CLASSNAME  ", className);
