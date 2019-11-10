@@ -4,5 +4,7 @@
 	"scripts": {
 		"react-class-guts": "node createReactClass.js"
 	},
-	"keywords": []
+	"keywords": [
+		    "guts"
+	]
 }
