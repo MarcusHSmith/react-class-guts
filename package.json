@@ -2,6 +2,7 @@
 	"name": "@marcusmth/react-class-guts",
 	"version": "1.0.1",
 	"scripts": {
-		"react-class-guts": "node tasks/cra.js"
+		"react-class-guts": "node createReactClass.js"
+		
 	}
 }
