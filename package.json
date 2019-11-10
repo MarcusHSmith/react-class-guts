@@ -3,6 +3,7 @@
   "description": "automatically create react class guts",
   "version": "1.0.8",
   "scripts": {
+    "build": "node createReactClass.js",
     "react-class-guts": "node createReactClass.js"
   },
   "keywords": [
