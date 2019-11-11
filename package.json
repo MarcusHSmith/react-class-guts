@@ -1,5 +1,5 @@
 {
-  "name": "react-class-guts",
+  "name": "create-react-class-guts",
   "description": "automatically create react class guts",
   "version": "1.0.10",
   "scripts": {
@@ -10,5 +10,12 @@
     "npm",
     "package.json",
     "node.js"
-  ]
+  ],
+  "main": "createReactClass.js",
+  "repository": "git@github.com:MarcusHSmith/react-class-guts.git",
+  "author": "marcushsmith <marcushsmith@comcast.net>",
+  "license": "MIT",
+  "bin": {
+    "react-class-guts": "./bin/createReactClass.js"
+  }
 }
